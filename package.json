@@ -1,0 +1,28 @@
+{
+  "name": "CSS3-2017",
+  "version": "1.0.0",
+  "description": "Ejercicios CSS3",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanjd/CSS3-2017.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanjd/CSS3-2017/issues"
+  },
+  "homepage": "https://github.com/jonathanjd/CSS3-2017#readme"
+}
